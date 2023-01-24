@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mudasir Hussin</h1>
+<h1 align="center">Hi 👋, I'm Mudasir Hussain</h1>
 <h3 align="center">Full Stack Web Developer with experience in building responsive and dynamic web applications using a variety of technologies such as JavaScript, HTML, CSS, and various frameworks such as Codeigniter , Laravel and libraries like React, Angular, and Node.js. Strong understanding of web development concepts, including web architecture, MVC patterns, and RESTful API design. Proven ability to work collaboratively with cross-functional teams, as well as independently, to deliver high-quality, scalable, and maintainable code. Skilled in utilizing agile methodologies and version control systems such as Git for efficient project management and collaboration. Dedicated to staying current with the latest web development trends and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimudasirpcr&label=Profile%20views&color=0e75b6&style=flat" alt="alimudasirpcr" /> </p>
